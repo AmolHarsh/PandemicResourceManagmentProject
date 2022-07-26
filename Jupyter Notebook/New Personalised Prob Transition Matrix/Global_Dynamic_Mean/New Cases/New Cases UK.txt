@@ -1,0 +1,737 @@
+New Cases
+
+Country Name:  United Kingdom
+From data:  2020-01-24 00:00:00  to  2020-06-21 00:00:00
+Transition Matrix:  
+
+ [[0.98245614 0.01754386 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-01-31 00:00:00  to  2020-06-28 00:00:00
+Transition Matrix:  
+
+ [[0.984375   0.015625   0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-02-07 00:00:00  to  2020-07-05 00:00:00
+Transition Matrix:  
+
+ [[0.98591549 0.01408451 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-02-14 00:00:00  to  2020-07-12 00:00:00
+Transition Matrix:  
+
+ [[0.98701299 0.01298701 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-02-21 00:00:00  to  2020-07-19 00:00:00
+Transition Matrix:  
+
+ [[0.98701299 0.01298701 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-02-28 00:00:00  to  2020-07-26 00:00:00
+Transition Matrix:  
+
+ [[0.98701299 0.01298701 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-03-06 00:00:00  to  2020-08-02 00:00:00
+Transition Matrix:  
+
+ [[0.98701299 0.01298701 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2020-03-13 00:00:00  to  2020-08-09 00:00:00
+Transition Matrix:  
+
+ [[0.9875     0.0125     0.        ]
+ [0.04347826 0.91304348 0.04347826]
+ [0.         0.02173913 0.97826087]] 
+
+Country Name:  United Kingdom
+From data:  2020-03-20 00:00:00  to  2020-08-16 00:00:00
+Transition Matrix:  
+
+ [[0.98795181 0.01204819 0.        ]
+ [0.04545455 0.90909091 0.04545455]
+ [0.         0.02272727 0.97727273]] 
+
+Country Name:  United Kingdom
+From data:  2020-03-27 00:00:00  to  2020-08-23 00:00:00
+Transition Matrix:  
+
+ [[0.98795181 0.01204819 0.        ]
+ [0.04545455 0.90909091 0.04545455]
+ [0.         0.02272727 0.97727273]] 
+
+Country Name:  United Kingdom
+From data:  2020-04-03 00:00:00  to  2020-08-30 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.05555556 0.88888889 0.05555556]
+ [0.         0.02272727 0.97727273]] 
+
+Country Name:  United Kingdom
+From data:  2020-04-10 00:00:00  to  2020-09-06 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.0625     0.9375     0.        ]
+ [0.         0.02564103 0.97435897]] 
+
+Country Name:  United Kingdom
+From data:  2020-04-17 00:00:00  to  2020-09-13 00:00:00
+Transition Matrix:  
+
+ [[1.      0.      0.     ]
+ [0.0625  0.9375  0.     ]
+ [0.      0.03125 0.96875]] 
+
+Country Name:  United Kingdom
+From data:  2020-04-24 00:00:00  to  2020-09-20 00:00:00
+Transition Matrix:  
+
+ [[1.     0.     0.    ]
+ [0.0625 0.9375 0.    ]
+ [0.     0.04   0.96  ]] 
+
+Country Name:  United Kingdom
+From data:  2020-05-01 00:00:00  to  2020-09-27 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.0625     0.9375     0.        ]
+ [0.         0.05555556 0.94444444]] 
+
+Country Name:  United Kingdom
+From data:  2020-05-08 00:00:00  to  2020-10-04 00:00:00
+Transition Matrix:  
+
+ [[0.99099099 0.00900901 0.        ]
+ [0.04761905 0.95238095 0.        ]
+ [0.         0.05882353 0.94117647]] 
+
+Country Name:  United Kingdom
+From data:  2020-05-15 00:00:00  to  2020-10-11 00:00:00
+Transition Matrix:  
+
+ [[0.99056604 0.00943396 0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.05263158 0.94736842]] 
+
+Country Name:  United Kingdom
+From data:  2020-05-22 00:00:00  to  2020-10-18 00:00:00
+Transition Matrix:  
+
+ [[0.99152542 0.00847458 0.        ]
+ [0.04761905 0.9047619  0.04761905]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-05-29 00:00:00  to  2020-10-25 00:00:00
+Transition Matrix:  
+
+ [[0.99186992 0.00813008 0.        ]
+ [0.07692308 0.84615385 0.07692308]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-06-05 00:00:00  to  2020-11-01 00:00:00
+Transition Matrix:  
+
+ [[0.99173554 0.00826446 0.        ]
+ [0.         0.9        0.1       ]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-06-12 00:00:00  to  2020-11-08 00:00:00
+Transition Matrix:  
+
+ [[0.99122807 0.00877193 0.        ]
+ [0.         0.9        0.1       ]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-06-19 00:00:00  to  2020-11-15 00:00:00
+Transition Matrix:  
+
+ [[0.99065421 0.00934579 0.        ]
+ [0.         0.9        0.1       ]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-06-26 00:00:00  to  2020-11-22 00:00:00
+Transition Matrix:  
+
+ [[0.99 0.01 0.  ]
+ [0.   0.9  0.1 ]
+ [0.   0.   1.  ]] 
+
+Country Name:  United Kingdom
+From data:  2020-07-03 00:00:00  to  2020-11-29 00:00:00
+Transition Matrix:  
+
+ [[0.98924731 0.01075269 0.        ]
+ [0.         0.90909091 0.09090909]
+ [0.         0.02222222 0.97777778]] 
+
+Country Name:  United Kingdom
+From data:  2020-07-10 00:00:00  to  2020-12-06 00:00:00
+Transition Matrix:  
+
+ [[0.98837209 0.01162791 0.        ]
+ [0.         0.94444444 0.05555556]
+ [0.         0.02222222 0.97777778]] 
+
+Country Name:  United Kingdom
+From data:  2020-07-17 00:00:00  to  2020-12-13 00:00:00
+Transition Matrix:  
+
+ [[0.98734177 0.01265823 0.        ]
+ [0.         0.96       0.04      ]
+ [0.         0.02222222 0.97777778]] 
+
+Country Name:  United Kingdom
+From data:  2020-07-24 00:00:00  to  2020-12-20 00:00:00
+Transition Matrix:  
+
+ [[0.98611111 0.01388889 0.        ]
+ [0.         0.96875    0.03125   ]
+ [0.         0.02222222 0.97777778]] 
+
+Country Name:  United Kingdom
+From data:  2020-07-31 00:00:00  to  2020-12-27 00:00:00
+Transition Matrix:  
+
+ [[0.98461538 0.01538462 0.        ]
+ [0.         0.93939394 0.06060606]
+ [0.         0.01960784 0.98039216]] 
+
+Country Name:  United Kingdom
+From data:  2020-08-07 00:00:00  to  2021-01-03 00:00:00
+Transition Matrix:  
+
+ [[0.98305085 0.01694915 0.        ]
+ [0.         0.95555556 0.04444444]
+ [0.         0.02222222 0.97777778]] 
+
+Country Name:  United Kingdom
+From data:  2020-08-14 00:00:00  to  2021-01-10 00:00:00
+Transition Matrix:  
+
+ [[0.97183099 0.02816901 0.        ]
+ [0.01470588 0.97058824 0.01470588]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-08-21 00:00:00  to  2021-01-17 00:00:00
+Transition Matrix:  
+
+ [[0.96923077 0.03076923 0.        ]
+ [0.01492537 0.97014925 0.01492537]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-08-28 00:00:00  to  2021-01-24 00:00:00
+Transition Matrix:  
+
+ [[0.96551724 0.03448276 0.        ]
+ [0.01492537 0.97014925 0.01492537]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2020-09-04 00:00:00  to  2021-01-31 00:00:00
+Transition Matrix:  
+
+ [[0.96153846 0.03846154 0.        ]
+ [0.01408451 0.97183099 0.01408451]
+ [0.         0.03846154 0.96153846]] 
+
+Country Name:  United Kingdom
+From data:  2020-09-11 00:00:00  to  2021-02-07 00:00:00
+Transition Matrix:  
+
+ [[0.96       0.04       0.        ]
+ [0.01351351 0.97297297 0.01351351]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2020-09-18 00:00:00  to  2021-02-14 00:00:00
+Transition Matrix:  
+
+ [[0.95918367 0.04081633 0.        ]
+ [0.02666667 0.96       0.01333333]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2020-09-25 00:00:00  to  2021-02-21 00:00:00
+Transition Matrix:  
+
+ [[0.96428571 0.03571429 0.        ]
+ [0.02857143 0.95714286 0.01428571]
+ [0.         0.04347826 0.95652174]] 
+
+Country Name:  United Kingdom
+From data:  2020-10-02 00:00:00  to  2021-02-28 00:00:00
+Transition Matrix:  
+
+ [[0.96610169 0.03389831 0.        ]
+ [0.02985075 0.95522388 0.01492537]
+ [0.         0.04347826 0.95652174]] 
+
+Country Name:  United Kingdom
+From data:  2020-10-09 00:00:00  to  2021-03-07 00:00:00
+Transition Matrix:  
+
+ [[0.96428571 0.03571429 0.        ]
+ [0.02857143 0.95714286 0.01428571]
+ [0.         0.04347826 0.95652174]] 
+
+Country Name:  United Kingdom
+From data:  2020-10-16 00:00:00  to  2021-03-14 00:00:00
+Transition Matrix:  
+
+ [[0.98148148 0.01851852 0.        ]
+ [0.02816901 0.95774648 0.01408451]
+ [0.         0.04166667 0.95833333]] 
+
+Country Name:  United Kingdom
+From data:  2020-10-23 00:00:00  to  2021-03-21 00:00:00
+Transition Matrix:  
+
+ [[0.98360656 0.01639344 0.        ]
+ [0.03125    0.953125   0.015625  ]
+ [0.         0.04166667 0.95833333]] 
+
+Country Name:  United Kingdom
+From data:  2020-10-30 00:00:00  to  2021-03-28 00:00:00
+Transition Matrix:  
+
+ [[0.98529412 0.01470588 0.        ]
+ [0.03508772 0.94736842 0.01754386]
+ [0.         0.04166667 0.95833333]] 
+
+Country Name:  United Kingdom
+From data:  2020-11-06 00:00:00  to  2021-04-04 00:00:00
+Transition Matrix:  
+
+ [[0.98648649 0.01351351 0.        ]
+ [0.04       0.94       0.02      ]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2020-11-13 00:00:00  to  2021-04-11 00:00:00
+Transition Matrix:  
+
+ [[0.98648649 0.01351351 0.        ]
+ [0.04081633 0.93877551 0.02040816]
+ [0.         0.03846154 0.96153846]] 
+
+Country Name:  United Kingdom
+From data:  2020-11-20 00:00:00  to  2021-04-18 00:00:00
+Transition Matrix:  
+
+ [[0.98734177 0.01265823 0.        ]
+ [0.04651163 0.93023256 0.02325581]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2020-11-27 00:00:00  to  2021-04-25 00:00:00
+Transition Matrix:  
+
+ [[0.98837209 0.01162791 0.        ]
+ [0.05555556 0.91666667 0.02777778]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2020-12-04 00:00:00  to  2021-05-02 00:00:00
+Transition Matrix:  
+
+ [[0.98901099 0.01098901 0.        ]
+ [0.03225806 0.93548387 0.03225806]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2020-12-11 00:00:00  to  2021-05-09 00:00:00
+Transition Matrix:  
+
+ [[0.98888889 0.01111111 0.        ]
+ [0.03125    0.9375     0.03125   ]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2020-12-18 00:00:00  to  2021-05-16 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.03225806 0.93548387 0.03225806]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2020-12-25 00:00:00  to  2021-05-23 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.04166667 0.91666667 0.04166667]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2021-01-01 00:00:00  to  2021-05-30 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.05555556 0.94444444 0.        ]
+ [0.         0.03846154 0.96153846]] 
+
+Country Name:  United Kingdom
+From data:  2021-01-08 00:00:00  to  2021-06-06 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.05555556 0.94444444 0.        ]
+ [0.         0.05263158 0.94736842]] 
+
+Country Name:  United Kingdom
+From data:  2021-01-15 00:00:00  to  2021-06-13 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.05882353 0.94117647 0.        ]
+ [0.         0.07692308 0.92307692]] 
+
+Country Name:  United Kingdom
+From data:  2021-01-22 00:00:00  to  2021-06-20 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.05555556 0.94444444 0.        ]
+ [0.         0.09090909 0.90909091]] 
+
+Country Name:  United Kingdom
+From data:  2021-01-29 00:00:00  to  2021-06-27 00:00:00
+Transition Matrix:  
+
+ [[0.99082569 0.00917431 0.        ]
+ [0.03571429 0.96428571 0.        ]
+ [0.         0.08333333 0.91666667]] 
+
+Country Name:  United Kingdom
+From data:  2021-02-05 00:00:00  to  2021-07-04 00:00:00
+Transition Matrix:  
+
+ [[0.99065421 0.00934579 0.        ]
+ [0.03225806 0.93548387 0.03225806]
+ [0.         0.09090909 0.90909091]] 
+
+Country Name:  United Kingdom
+From data:  2021-02-12 00:00:00  to  2021-07-11 00:00:00
+Transition Matrix:  
+
+ [[0.99193548 0.00806452 0.        ]
+ [0.05882353 0.88235294 0.05882353]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2021-02-19 00:00:00  to  2021-07-18 00:00:00
+Transition Matrix:  
+
+ [[0.99224806 0.00775194 0.        ]
+ [0.         0.90909091 0.09090909]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2021-02-26 00:00:00  to  2021-07-25 00:00:00
+Transition Matrix:  
+
+ [[0.99186992 0.00813008 0.        ]
+ [0.         0.90909091 0.09090909]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2021-03-05 00:00:00  to  2021-08-01 00:00:00
+Transition Matrix:  
+
+ [[0.99137931 0.00862069 0.        ]
+ [0.         0.90909091 0.09090909]
+ [0.         0.         1.        ]] 
+
+Country Name:  United Kingdom
+From data:  2021-03-12 00:00:00  to  2021-08-08 00:00:00
+Transition Matrix:  
+
+ [[0.99082569 0.00917431 0.        ]
+ [0.         0.93333333 0.06666667]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2021-03-19 00:00:00  to  2021-08-15 00:00:00
+Transition Matrix:  
+
+ [[0.99019608 0.00980392 0.        ]
+ [0.         0.95454545 0.04545455]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2021-03-26 00:00:00  to  2021-08-22 00:00:00
+Transition Matrix:  
+
+ [[0.98947368 0.01052632 0.        ]
+ [0.         0.92592593 0.07407407]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2021-04-02 00:00:00  to  2021-08-29 00:00:00
+Transition Matrix:  
+
+ [[0.98863636 0.01136364 0.        ]
+ [0.         0.92592593 0.07407407]
+ [0.         0.02941176 0.97058824]] 
+
+Country Name:  United Kingdom
+From data:  2021-04-09 00:00:00  to  2021-09-05 00:00:00
+Transition Matrix:  
+
+ [[0.98765432 0.01234568 0.        ]
+ [0.         0.92592593 0.07407407]
+ [0.         0.02439024 0.97560976]] 
+
+Country Name:  United Kingdom
+From data:  2021-04-16 00:00:00  to  2021-09-12 00:00:00
+Transition Matrix:  
+
+ [[0.98648649 0.01351351 0.        ]
+ [0.         0.92592593 0.07407407]
+ [0.         0.02083333 0.97916667]] 
+
+Country Name:  United Kingdom
+From data:  2021-04-23 00:00:00  to  2021-09-19 00:00:00
+Transition Matrix:  
+
+ [[0.98507463 0.01492537 0.        ]
+ [0.         0.92592593 0.07407407]
+ [0.         0.03636364 0.96363636]] 
+
+Country Name:  United Kingdom
+From data:  2021-04-30 00:00:00  to  2021-09-26 00:00:00
+Transition Matrix:  
+
+ [[0.98333333 0.01666667 0.        ]
+ [0.         0.94117647 0.05882353]
+ [0.         0.03636364 0.96363636]] 
+
+Country Name:  United Kingdom
+From data:  2021-05-07 00:00:00  to  2021-10-03 00:00:00
+Transition Matrix:  
+
+ [[0.98113208 0.01886792 0.        ]
+ [0.         0.95121951 0.04878049]
+ [0.         0.03636364 0.96363636]] 
+
+Country Name:  United Kingdom
+From data:  2021-05-14 00:00:00  to  2021-10-10 00:00:00
+Transition Matrix:  
+
+ [[0.97826087 0.02173913 0.        ]
+ [0.         0.95833333 0.04166667]
+ [0.         0.03636364 0.96363636]] 
+
+Country Name:  United Kingdom
+From data:  2021-05-21 00:00:00  to  2021-10-17 00:00:00
+Transition Matrix:  
+
+ [[0.97435897 0.02564103 0.        ]
+ [0.         0.96363636 0.03636364]
+ [0.         0.03636364 0.96363636]] 
+
+Country Name:  United Kingdom
+From data:  2021-05-28 00:00:00  to  2021-10-24 00:00:00
+Transition Matrix:  
+
+ [[0.96875    0.03125    0.        ]
+ [0.         0.96825397 0.03174603]
+ [0.         0.03703704 0.96296296]] 
+
+Country Name:  United Kingdom
+From data:  2021-06-04 00:00:00  to  2021-10-31 00:00:00
+Transition Matrix:  
+
+ [[0.96153846 0.03846154 0.        ]
+ [0.         0.97260274 0.02739726]
+ [0.         0.04       0.96      ]] 
+
+Country Name:  United Kingdom
+From data:  2021-06-11 00:00:00  to  2021-11-07 00:00:00
+Transition Matrix:  
+
+ [[0.95       0.05       0.        ]
+ [0.         0.97560976 0.02439024]
+ [0.         0.04255319 0.95744681]] 
+
+Country Name:  United Kingdom
+From data:  2021-06-18 00:00:00  to  2021-11-14 00:00:00
+Transition Matrix:  
+
+ [[0.95       0.05       0.        ]
+ [0.01136364 0.96590909 0.02272727]
+ [0.         0.04878049 0.95121951]] 
+
+Country Name:  United Kingdom
+From data:  2021-06-25 00:00:00  to  2021-11-21 00:00:00
+Transition Matrix:  
+
+ [[0.96153846 0.03846154 0.        ]
+ [0.01098901 0.96703297 0.02197802]
+ [0.         0.0625     0.9375    ]] 
+
+Country Name:  United Kingdom
+From data:  2021-07-02 00:00:00  to  2021-11-28 00:00:00
+Transition Matrix:  
+
+ [[0.96774194 0.03225806 0.        ]
+ [0.01020408 0.96938776 0.02040816]
+ [0.         0.1        0.9       ]] 
+
+Country Name:  United Kingdom
+From data:  2021-07-09 00:00:00  to  2021-12-05 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.0106383  0.96808511 0.0212766 ]
+ [0.         0.08695652 0.91304348]] 
+
+Country Name:  United Kingdom
+From data:  2021-07-16 00:00:00  to  2021-12-12 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01149425 0.97701149 0.01149425]
+ [0.         0.08333333 0.91666667]] 
+
+Country Name:  United Kingdom
+From data:  2021-07-23 00:00:00  to  2021-12-19 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01162791 0.96511628 0.02325581]
+ [0.         0.16666667 0.83333333]] 
+
+Country Name:  United Kingdom
+From data:  2021-07-30 00:00:00  to  2021-12-26 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01666667 0.95       0.03333333]
+ [0.         0.07692308 0.92307692]] 
+
+Country Name:  United Kingdom
+From data:  2021-08-06 00:00:00  to  2022-01-02 00:00:00
+Transition Matrix:  
+
+ [[0.97959184 0.02040816 0.        ]
+ [0.01923077 0.94230769 0.03846154]
+ [0.         0.04166667 0.95833333]] 
+
+Country Name:  United Kingdom
+From data:  2021-08-13 00:00:00  to  2022-01-09 00:00:00
+Transition Matrix:  
+
+ [[0.97959184 0.02040816 0.        ]
+ [0.0212766  0.91489362 0.06382979]
+ [0.         0.03773585 0.96226415]] 
+
+Country Name:  United Kingdom
+From data:  2021-08-20 00:00:00  to  2022-01-16 00:00:00
+Transition Matrix:  
+
+ [[0.97959184 0.02040816 0.        ]
+ [0.02040816 0.93877551 0.04081633]
+ [0.         0.05882353 0.94117647]] 
+
+Country Name:  United Kingdom
+From data:  2021-08-27 00:00:00  to  2022-01-23 00:00:00
+Transition Matrix:  
+
+ [[0.98181818 0.01818182 0.        ]
+ [0.04081633 0.91836735 0.04081633]
+ [0.         0.06666667 0.93333333]] 
+
+Country Name:  United Kingdom
+From data:  2021-09-03 00:00:00  to  2022-01-30 00:00:00
+Transition Matrix:  
+
+ [[0.98245614 0.01754386 0.        ]
+ [0.04444444 0.88888889 0.06666667]
+ [0.         0.08510638 0.91489362]] 
+
+Country Name:  United Kingdom
+From data:  2021-09-10 00:00:00  to  2022-02-06 00:00:00
+Transition Matrix:  
+
+ [[0.98360656 0.01639344 0.        ]
+ [0.06060606 0.84848485 0.09090909]
+ [0.         0.07272727 0.92727273]] 
+
+Country Name:  United Kingdom
+From data:  2021-09-17 00:00:00  to  2022-02-13 00:00:00
+Transition Matrix:  
+
+ [[0.95833333 0.04166667 0.        ]
+ [0.08333333 0.88888889 0.02777778]
+ [0.         0.03076923 0.96923077]] 
+
+Country Name:  United Kingdom
+From data:  2021-09-24 00:00:00  to  2022-02-20 00:00:00
+Transition Matrix:  
+
+ [[0.97368421 0.02631579 0.        ]
+ [0.04081633 0.93877551 0.02040816]
+ [0.         0.03225806 0.96774194]] 
+
+Country Name:  United Kingdom
+From data:  2021-10-01 00:00:00  to  2022-02-27 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01694915 0.96610169 0.01694915]
+ [0.         0.03389831 0.96610169]] 
+
+Country Name:  United Kingdom
+From data:  2021-10-08 00:00:00  to  2022-03-06 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01694915 0.96610169 0.01694915]
+ [0.         0.03846154 0.96153846]] 
+
+Country Name:  United Kingdom
+From data:  2021-10-15 00:00:00  to  2022-03-13 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01694915 0.96610169 0.01694915]
+ [0.         0.04444444 0.95555556]] 
+
+Country Name:  United Kingdom
+From data:  2021-10-22 00:00:00  to  2022-03-20 00:00:00
+Transition Matrix:  
+
+ [[1.         0.         0.        ]
+ [0.01694915 0.96610169 0.01694915]
+ [0.         0.05263158 0.94736842]] 

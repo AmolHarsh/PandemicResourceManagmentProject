@@ -1,0 +1,308 @@
+Global Dynamic Max
+
+Country Groupings
+
+Small Country Group: ['Albania', 'Belarus', 'Bosnia and Herzegovina', 'Bulgaria', 'Croatia', 'Finland', 'Hungary', 'Ireland', 'Liechtenstein', 'Moldova', 'North Macedonia', 'Norway', 'Poland', 'Romania', 'Russia', 'Serbia', 'Spain', 'Switzerland', 'Ukraine', 'United Kingdom'] 
+
+Medium Country Group: ['Austria', 'Belgium', 'Czechia', 'Denmark', 'Estonia', 'France', 'Germany', 'Iceland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Monaco', 'Montenegro', 'Netherlands', 'Portugal', 'Slovakia', 'Slovenia', 'Sweden'] 
+
+Large Country Group: ['Andorra', 'Cyprus', 'Faeroe Islands', 'Gibraltar', 'Greece', 'Isle of Man', 'San Marino', 'Vatican'] 
+
+New_Cases
+-
++
+++
+
+Country name:  Albania 
+ [[0.99620253 0.00379747 0.        ]
+ [0.03389831 0.96610169 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Andorra 
+ [[0.99104859 0.00895141 0.        ]
+ [0.09722222 0.88888889 0.01388889]
+ [0.         0.5        0.5       ]] 
+
+Country name:  Austria 
+ [[0.99605263 0.00394737 0.        ]
+ [0.01960784 0.98039216 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Belarus 
+ [[0.99873897 0.00126103 0.        ]
+ [0.01515152 0.98484848 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Belgium 
+ [[0.99515152 0.00484848 0.        ]
+ [0.05555556 0.90740741 0.03703704]
+ [0.         0.5        0.5       ]] 
+
+Country name:  Bosnia and Herzegovina 
+ [[0.99612903 0.00387097 0.        ]
+ [0.03846154 0.96153846 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Bulgaria 
+ [[0.99601594 0.00398406 0.        ]
+ [0.03092784 0.96907216 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Croatia 
+ [[0.99435825 0.00564175 0.        ]
+ [0.03809524 0.94285714 0.01904762]
+ [0.         0.04545455 0.95454545]] 
+
+Country name:  Cyprus 
+ [[0.996337   0.003663   0.        ]
+ [0.07142857 0.89285714 0.03571429]
+ [0.         0.         1.        ]] 
+
+Country name:  Czechia 
+ [[0.99455041 0.00544959 0.        ]
+ [0.03252033 0.96747967 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Denmark 
+ [[0.99874687 0.00125313 0.        ]
+ [0.03125    0.9375     0.03125   ]
+ [0.         0.03333333 0.96666667]] 
+
+Country name:  Estonia 
+ [[0.99615385 0.00384615 0.        ]
+ [0.0375     0.9625     0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Faeroe Islands 
+ [[0.99749059 0.00250941 0.        ]
+ [0.08       0.8        0.12      ]
+ [0.         0.09375    0.90625   ]] 
+
+Country name:  Finland 
+ [[0.9954023  0.0045977  0.        ]
+ [0.15789474 0.84210526 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  France 
+ [[0.99372647 0.00627353 0.        ]
+ [0.04819277 0.93975904 0.01204819]
+ [0.         0.         1.        ]] 
+
+Country name:  Germany 
+ [[0.99885057 0.00114943 0.        ]
+ [0.         1.         0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Gibraltar 
+ [[0.99492386 0.00507614 0.        ]
+ [0.08695652 0.89130435 0.02173913]
+ [0.         0.05       0.95      ]] 
+
+Country name:  Greece 
+ [[0.99764429 0.00117786 0.00117786]
+ [0.08333333 0.91666667 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Hungary 
+ [[0.99589041 0.00410959 0.        ]
+ [0.03333333 0.94444444 0.02222222]
+ [0.         0.05882353 0.94117647]] 
+
+Country name:  Iceland 
+ [[0.99594046 0.00405954 0.        ]
+ [0.02173913 0.9673913  0.01086957]
+ [0.         0.03571429 0.96428571]] 
+
+Country name:  Ireland 
+ [[0.99270073 0.00729927 0.        ]
+ [0.032      0.936      0.032     ]
+ [0.         0.07142857 0.92857143]] 
+
+Country name:  Isle of Man 
+ [[0.99490446 0.00509554 0.        ]
+ [0.06451613 0.87096774 0.06451613]
+ [0.04545455 0.04545455 0.90909091]] 
+
+Country name: 
+C:\Users\ABHA RANI\AppData\Local\Temp/ipykernel_17416/369727538.py:144: RuntimeWarning: invalid value encountered in true_divide
+  transition_matrix[2,:] = transition_matrix[2,:]/sum_of_columns[2,0]
+ Italy 
+ [[0.9988466 0.0011534 0.       ]
+ [0.        0.875     0.125    ]
+ [0.        0.        1.       ]] 
+
+Country name:  Latvia 
+ [[0.99876238 0.00123762 0.        ]
+ [0.02083333 0.97916667 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Liechtenstein 
+ [[0.98852459 0.01147541 0.        ]
+ [0.0397351  0.92715232 0.03311258]
+ [0.         0.04651163 0.95348837]] 
+
+Country name:  Lithuania 
+ [[0.99460916 0.00539084 0.        ]
+ [0.04123711 0.95876289 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Luxembourg 
+ [[0.99462366 0.00537634 0.        ]
+ [0.02941176 0.95098039 0.01960784]
+ [0.         0.16666667 0.83333333]] 
+
+Country name:  Malta 
+ [[0.99757576 0.00242424 0.        ]
+ [0.03846154 0.96153846 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Moldova 
+ [[0.99353169 0.00646831 0.        ]
+ [0.06493506 0.93506494 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Monaco 
+ [[0.99519808 0.00480192 0.        ]
+ [0.12       0.88       0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Montenegro 
+ [[0.98730159 0.01269841 0.        ]
+ [0.03535354 0.95959596 0.00505051]
+ [0.         0.07692308 0.92307692]] 
+
+Country name:  Netherlands 
+ [[0.99498118 0.00501882 0.        ]
+ [0.06349206 0.93650794 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  North Macedonia 
+ [[0.99431818 0.00568182 0.        ]
+ [0.02684564 0.96644295 0.00671141]
+ [0.         0.125      0.875     ]] 
+
+Country name:  Norway 
+ [[0.99749059 0.00250941 0.        ]
+ [0.05405405 0.91891892 0.02702703]
+ [0.         0.03703704 0.96296296]] 
+
+Country name:  Poland 
+ [[0.99737533 0.00262467 0.        ]
+ [0.02702703 0.94594595 0.02702703]
+ [0.         0.11111111 0.88888889]] 
+
+Country name:  Portugal 
+ [[0.99590723 0.00409277 0.        ]
+ [0.02439024 0.97560976 0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Romania 
+ [[0.99498118 0.00501882 0.        ]
+ [0.0625     0.9375     0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Russia 
+ [[0.99880526 0.00119474 0.        ]
+ [0.02       0.98       0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  San Marino 
+ [[0.98971722 0.01028278 0.        ]
+ [0.10769231 0.81538462 0.07692308]
+ [0.         0.33333333 0.66666667]] 
+
+Country name:  Serbia 
+ [[0.9939302  0.0060698  0.        ]
+ [0.02777778 0.95833333 0.01388889]
+ [0.         0.04081633 0.95918367]] 
+
+Country name:  Slovakia 
+ [[0.99723757 0.00276243 0.        ]
+ [0.015625   0.984375   0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Slovenia 
+ [[0.99316005 0.00683995 0.        ]
+ [0.03539823 0.95575221 0.00884956]
+ [0.         0.11111111 0.88888889]] 
+
+Country name:  Spain 
+ [[0.98580442 0.01419558 0.        ]
+ [0.04188482 0.94240838 0.01570681]
+ [0.         0.04918033 0.95081967]] 
+
+Country name:  Sweden 
+ [[0.99521531 0.00478469 0.        ]
+ [0.08       0.92       0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  Switzerland 
+ [[0.98976109 0.01023891 0.        ]
+ [0.0245098  0.95098039 0.0245098 ]
+ [0.         0.05555556 0.94444444]] 
+
+Country name:  Ukraine 
+ [[0.99878493 0.00121507 0.        ]
+ [0.03125    0.96875    0.        ]
+ [       nan        nan        nan]] 
+
+Country name:  United Kingdom 
+ [[0.98598131 0.01401869 0.        ]
+ [0.04494382 0.93820225 0.01685393]
+ [0.         0.04477612 0.95522388]] 
+
+Country name:  Vatican 
+ [[0.995      0.005      0.        ]
+ [0.1025641  0.84615385 0.05128205]
+ [0.         0.15384615 0.84615385]] 
+
+
+Max values of each country
+Albania                              0.138582
+Andorra                              0.673887
+Austria                              0.391389
+Belarus                              0.186886
+Belgium                              0.411934
+Bosnia and Herzegovina               0.166874
+Bulgaria                             0.163275
+Croatia                              0.317859
+Cyprus                               0.784998
+Czechia                              0.347474
+Denmark                              0.503326
+Estonia                              0.342989
+Faeroe Islands                            1.0
+Finland                               0.16118
+France                               0.595973
+Germany                              0.356649
+Gibraltar                                 1.0
+Greece                                    1.0
+Hungary                              0.280503
+Iceland                              0.543675
+Ireland                              0.319561
+Isle of Man                               1.0
+Italy                                0.518774
+Latvia                                 0.3535
+Liechtenstein                        0.323064
+Lithuania                            0.346957
+Luxembourg                            0.44612
+Malta                                0.392028
+Moldova                              0.157849
+Monaco                               0.398348
+Montenegro                           0.452493
+Netherlands                          0.397064
+North Macedonia                      0.215648
+Norway                                0.24092
+Poland                               0.234125
+Portugal                             0.393217
+Romania                              0.155703
+Russia                               0.135547
+San Marino                           0.769659
+Serbia                               0.284264
+Slovakia                             0.375398
+Slovenia                             0.454376
+Spain                                 0.29324
+Sweden                               0.335378
+Switzerland                          0.272851
+Ukraine                              0.174446
+United Kingdom                       0.287079
+Vatican                                   1.0
