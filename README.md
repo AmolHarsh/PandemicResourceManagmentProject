@@ -5,7 +5,7 @@ Under the guidance of Prof. Amrik Sen at Plaksha University, the "Pandemic Resou
 
 ## Introduction
 
-This project, created by Amol Harsh in collaboration with Abhigyan Mehrotra, provides a comprehensive environment for data analysis and normalization techniques related to pandemic resource management. It allows users to manipulate and visualize complex data sets effortlessly, aiming to enhance decision-making in public health crises.
+This project's code and documentation, created by Amol Harsh in collaboration with Abhigyan Mehrotra, provides a comprehensive environment for data analysis and normalization techniques related to pandemic resource management. It allows users to manipulate and visualize complex data sets effortlessly, aiming to enhance decision-making in public health crises.
 
 ## Features
 
