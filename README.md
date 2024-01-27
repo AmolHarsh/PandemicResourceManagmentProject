@@ -1,7 +1,7 @@
-## Pandemic Resource Allocator: A Machine Learning Approach for Optimal Medical Distribution
-# Brief Description
+## Machine Learning for Optimal Medical Distribution: Data Analysis and Normalization Techniques
+## Brief Description
 
-Under the guidance of Prof. Amrik Sen at Plaksha University, the "Pandemic Resource Allocator" serves as a crucial tool in leveraging data science and machine learning for public health. Designed to assist the Indian Central Government, this project focuses on the strategic allocation of medical resources during pandemics. Initially trained on extensive data from 49 European countries, it employs Python, Pandas, and advanced mathematical techniques like Markov Chain Mathematics to predict COVID-19 severity transitions and manage resources effectively.
+The "Machine Learning for Optimal Medical Distribution" project, under Prof. Amrik Sen's guidance at Plaksha University, represents a significant stride in employing data science and machine learning for enhancing public health crisis management. While the ultimate goal of the project is to develop a Machine Learning-based system for the optimal distribution of medical resources, this repository specifically contains code and documentation for a comprehensive data analysis and normalization environment. Focused on pandemic resource management, it utilizes an extensive dataset from 49 European countries to facilitate the manipulation and visualization of complex data sets, thereby supporting more informed decision-making in public health crises.
 
 ## Introduction
 
