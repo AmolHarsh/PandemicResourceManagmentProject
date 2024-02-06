@@ -1,4 +1,4 @@
-## Machine Learning for Optimal Medical Distribution: Data Analysis and Normalization Techniques
+## Machine Learning for Optimal Medical Aid Distribution: Data Analysis and Normalization Techniques
 ## Brief Description
 
 The "Machine Learning for Optimal Medical Distribution" project, under Prof. Amrik Sen's guidance at Plaksha University, represents a significant stride in employing data science and machine learning for enhancing public health crisis management. While the ultimate goal of the project is to develop a Machine Learning-based system for the optimal distribution of medical resources, this repository specifically contains code and documentation for a comprehensive data analysis and normalization environment. Focused on pandemic resource management, it utilizes an extensive dataset from 49 European countries to facilitate the manipulation and visualization of complex data sets, thereby supporting more informed decision-making in public health crises.
